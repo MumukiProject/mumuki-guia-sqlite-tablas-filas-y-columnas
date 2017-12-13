@@ -3,7 +3,10 @@ En ese caso, sabrás que se pueden seleccionar las columnas o filas que nos inte
 
 En las bases de datos relacionales, existe una sentencia para “seleccionar” las columnas que queremos ver, a la que llamamos SELECT, y se ve asi: 
 
-> SELECT * 
-> FROM series_peliculas;
 
+```sql
+SELECT * 
+FROM series_peliculas;
+```
 
+> Presiona continuar para ver el resultado.
