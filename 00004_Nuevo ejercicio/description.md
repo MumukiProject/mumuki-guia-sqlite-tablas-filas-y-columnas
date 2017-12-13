@@ -1,0 +1,7 @@
+Los sistemas informáticos utilizan distintos tipos de bases de datos que estructuran los datos de determinada manera. 
+
+Una de ellas son las bases de datos relacionales que, manteniendo la misma idea de tablas que acabamos de ver, definen los campos necesarios que debe tener cada registro particular. 
+
+Además, sería medio tonto poner como año de estreno: "mil novecientos noventa y tres":laughing:, así que es importante también diferenciar el tipo de dato acorde a cada caso. 
+
+Se usa un DER (Diagrama Entidad Relación) para describir los campos y tipos de datos de cada tabla.
