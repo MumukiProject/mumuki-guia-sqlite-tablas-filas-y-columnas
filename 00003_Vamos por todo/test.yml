@@ -1,0 +1,2 @@
+type: query
+expected:  select * Series_Películas
