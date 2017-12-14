@@ -1,2 +1,2 @@
 type: query
-expected:  select * Series_Películas
+expected:  select * series_peliculas
