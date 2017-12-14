@@ -1,0 +1,1 @@
+Idem tabla del ejercicio 2.
