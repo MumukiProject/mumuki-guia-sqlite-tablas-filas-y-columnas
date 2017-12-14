@@ -6,7 +6,7 @@ En las bases de datos relacionales, existe una sentencia para “seleccionar” 
 
 ```sql
 SELECT * 
-FROM series_peliculas;
+FROM contactos;
 ```
 
 > Presiona continuar para ver el resultado.
