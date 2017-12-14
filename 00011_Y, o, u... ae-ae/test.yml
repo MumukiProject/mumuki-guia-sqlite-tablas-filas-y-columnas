@@ -1,0 +1,2 @@
+type: show_query
+query: SELECT titulo FROM series_peliculas WHERE titulo LIKE "%planeta de los simios%" AND (estreno > 2010 OR puntuacion >= 8) AND NOT formato = "Cómic"

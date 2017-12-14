@@ -9,4 +9,4 @@ SELECT *
 FROM contactos;
 ```
 
-> Presiona continuar para ver el resultado.
+> Presioná continuar para ver el resultado.

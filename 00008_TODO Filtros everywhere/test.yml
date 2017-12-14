@@ -1,0 +1,2 @@
+type: show_query
+query: select titulo, puntuacion from series_peliculas
