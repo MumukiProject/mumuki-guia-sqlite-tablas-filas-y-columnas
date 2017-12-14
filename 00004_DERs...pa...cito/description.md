@@ -5,3 +5,5 @@ Una de ellas son las bases de datos relacionales que, manteniendo la misma idea 
 Además, sería medio tonto poner como año de estreno: "mil novecientos noventa y tres":laughing:, así que es importante también diferenciar el tipo de dato acorde a cada caso. 
 
 Se usa un DER (Diagrama Entidad Relación) para describir los campos y tipos de datos de cada tabla.
+
+TODO: AGREGAR DER TRAS "CONTINUAR"...
