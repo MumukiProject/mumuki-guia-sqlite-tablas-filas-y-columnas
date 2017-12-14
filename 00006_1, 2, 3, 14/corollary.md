@@ -1,0 +1,1 @@
+ Existen distintas formas de usar el `COUNT`, algunas de las cuales verás más adelante.
