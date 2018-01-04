@@ -10,20 +10,26 @@ Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los 
   class='mu-erd'
   data-entities='{
     "series_peliculas": {
-      "ent1_id": {
-        "type": "Integer",
-        "pk": true
+      "titulo": {
+        "type": "Text"
       },
-      "ent2_id": {
-        "type": "Integer",
-        "pk": true,
-        "fk": {
-          "to": { "entity": "Entity_2", "column": "ent2_id" },
-          "type": "one_to_one"
-        }
+      "descripcion": {
+        "type": "Text"
       },
-      "ent1_description": {
-        "type": "Varchar"
+      "creador": {
+        "type": "Text"
+      },
+      "personajes": {
+        "type": "Text"
+      },
+      "temporadas": {
+        "type": "Integer"
+      },
+      "estreno": {
+        "type": "Integer"
+      },
+      "puntuacion": {
+        "type": "Real"
       }
     }
   }'>
