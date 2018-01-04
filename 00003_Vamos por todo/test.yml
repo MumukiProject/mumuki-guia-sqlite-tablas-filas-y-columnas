@@ -1,2 +1,2 @@
 type: display
-expected:  select * from contactos;
+query:  select * from contactos;
