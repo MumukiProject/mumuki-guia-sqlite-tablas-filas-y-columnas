@@ -4,6 +4,27 @@ Una de ellas son las bases de datos relacionales que, manteniendo la misma idea 
 
 Además, sería medio tonto poner como año de estreno: "mil novecientos noventa y tres":laughing:, así que es importante también diferenciar el tipo de dato acorde a cada caso. 
 
-Se usa un DER (Diagrama Entidad Relación) para describir los campos y tipos de datos de cada tabla.
+Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los campos y tipos de datos de cada tabla.
 
-TODO: AGREGAR DER TRAS "CONTINUAR"...
+<div
+  class='mu-erd'
+  data-entities='{
+    "series_peliculas": {
+      "ent1_id": {
+        "type": "Integer",
+        "pk": true
+      },
+      "ent2_id": {
+        "type": "Integer",
+        "pk": true,
+        "fk": {
+          "to": { "entity": "Entity_2", "column": "ent2_id" },
+          "type": "one_to_one"
+        }
+      },
+      "ent1_description": {
+        "type": "Varchar"
+      }
+    }
+  }'>
+</div>
