@@ -6,7 +6,6 @@ Además, sería medio tonto poner como año de estreno: "mil novecientos noventa
 
 Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los campos y tipos de datos de cada tabla.
 
-
 <div
   class='mu-erd'
   data-entities='{
