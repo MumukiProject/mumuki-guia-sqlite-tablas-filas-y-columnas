@@ -12,6 +12,7 @@ Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los 
     "series_peliculas": {
       "titulo": {
         "type": "Text"
+        "pk": true
       },
       "descripcion": {
         "type": "Text"
