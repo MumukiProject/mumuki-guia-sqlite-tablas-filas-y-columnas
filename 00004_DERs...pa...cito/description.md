@@ -14,37 +14,6 @@ Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los 
         "type": "Integer",
         "pk": true
       },
-      "ent2_id": {
-        "type": "Integer",
-        "pk": true,
-        "fk": {
-          "to": { "entity": "Entity_2", "column": "ent2_id" },
-          "type": "one_to_one"
-        }
-      },
-      "ent1_description": {
-        "type": "Varchar"
-      }
-    },
-    "Entity_2": {
-      "ent2_id": {
-        "type": "Integer",
-        "pk": true
-      }
-    },
-    "Entity_3": {
-      "ent3_id": {
-        "type": "Integer",
-        "pk": true
-      },
-      "ent2_id": {
-        "type": "Integer",
-        "pk": true,
-        "fk": {
-          "to": { "entity": "Entity_2", "column": "ent2_id" },
-          "type": "many_to_one"
-        }
-      },
       "ent1_description": {
         "type": "Varchar"
       }
