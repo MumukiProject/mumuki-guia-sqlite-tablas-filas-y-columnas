@@ -12,7 +12,7 @@ Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los 
     "Entity_1": {
       "ent1_id": {
         "type": "Integer",
-        "pk": true
+        "pk": false
       },
       "ent1_description": {
         "type": "Varchar"
