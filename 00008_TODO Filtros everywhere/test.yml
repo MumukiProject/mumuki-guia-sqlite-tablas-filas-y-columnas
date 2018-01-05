@@ -1,2 +1,2 @@
-type: show_query
-query: select titulo, puntuacion from series_peliculas
+type: query
+expected: SELECT titulo, puntuacion FROM series_peliculas;
