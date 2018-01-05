@@ -1,2 +1,2 @@
 type: query
-expected: SELECT COUNT (*) as resultado FROM series_peliculas;
+expected: SELECT COUNT (*) FROM series_peliculas;
