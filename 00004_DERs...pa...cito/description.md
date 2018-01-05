@@ -19,7 +19,7 @@ Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los 
       "creador": {
         "type": "Text"
       },
-      "personajes": {
+      "personajes": 
         "type": "Text"
       },
       "temporadas": {
