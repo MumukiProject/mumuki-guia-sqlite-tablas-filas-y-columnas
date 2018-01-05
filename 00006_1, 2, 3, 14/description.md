@@ -4,7 +4,7 @@ Para eso, existe la función `COUNT` que, como te imaginarás, cuenta y tira el 
 
 Podés agregarle luego la expresión `AS` _nombreConQueQuierasMostrarElResultado_.
 
-> Realizá la consulta necesaria para saber cuántas series y películas hay cargadas en la plataforma actualmente.
+> Realizá la consulta necesaria para saber cuántas series y películas hay cargadas en la plataforma actualmente. Mostrá el resultado como _cantidad_de_contenido_.
 
 <div
   class='mu-erd'
