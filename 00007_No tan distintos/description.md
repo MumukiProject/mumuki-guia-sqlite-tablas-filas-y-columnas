@@ -1,6 +1,6 @@
 Hasta ahora vimos tablas donde ningún registro se repetía. ¿Pero qué sucedería si 
 se hicieran dos versiones de una misma película en el mismo año, o una película y un documental con similares características? ¿Cómo podríamos diferenciarlos? 
-
+a
 <div
   class='mu-sql-table'
   data-name='series_peliculas'
