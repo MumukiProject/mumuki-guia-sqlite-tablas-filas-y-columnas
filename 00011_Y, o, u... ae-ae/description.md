@@ -1,12 +1,12 @@
 Ahora que sabemos cómo agregar filtros, nos gustaría que se pueda buscar utilizando distintos criterios. 
 
-Armamos un filtro donde se muestran distintos contenidos de “El planeta de los simios”, cuyo año de estreno sea del 2010 hasta la actualidad o tenga puntuación mayor a 8 y no sea el Cómic. 
+Armamos un filtro donde se muestran distintos contenidos de “El planeta de los simios”, cuyo año de estreno sea de 1974 en adelante o tenga puntuación mayor a 8 y no sea el Cómic. 
 
 ```sql
 SELECT titulo
 FROM series_peliculas
 WHERE titulo LIKE "%planeta de los simios%"
-AND (estreno > 2010 OR puntuacion >= 8) 
+AND (estreno > 1974 OR puntuacion >= 8) 
 AND NOT formato LIKE "cómic";
 ```
 
@@ -15,13 +15,18 @@ AND NOT formato LIKE "cómic";
   data-name='series_peliculas'
   data-columns='["titulo", "formato", "creador", "estreno", "puntuacion"]'
   data-rows='[
-    ["El planeta de los simios", "Novela", "Pierre Boulle", 1963, 8.1], 
-    ["El planeta de los simios", "Película", 
-    ["Escape del plantea de los simios", 1971
-    "Conquista del planeta de los simios", 1972 
-    "La batalla por el planeta de los simios", 1973 
-    "La guerra del planeta de los simios", 2017 ], 
-    ["IT", "Stephen King", "El payaso Pennywise, Beverly Marsh, Richie Tozier, Bill Denbrough, Eddie Kaspbrak, Stanley Uris, Ben Hanscom, Mike Hanlon, Georgie Denbrough", NULL, 8.9]
+    ["El planeta de los simios", "Novela", "Pierre Boulle", 1963, 9.8], 
+    ["El planeta de los simios", "Película", "Franklin Schaffner", 1968, 7.9],
+    ["Escape del plantea de los simios", "Película", "Arthur P. Jacobs", 1971, 6.5],
+    ["Conquista del planeta de los simios", "Película", "Arthur P. Jacobs", 1972, 6.7], 
+    ["La batalla por el planeta de los simios", "Película", "Arthur P. Jacobs", 1973, 8.6],
+    ["El planeta de los simios", "Serie", "	Mort Abraham", 1974, 7],
+    ["Regreso al planeta de los simios", "Serie", "DePatie-Freleng Enterprises", 1975, 7.4],
+    ["El planeta de los simios", "Cómic", "El planeta de los simios franquicia", 1975, 8.2,],
+    ["El planeta de los simios", "Película", "Tim Burton", 2001, 8],
+    ["El planeta de los simios: evolución", "Película", "Rupert Wyatt", 2011, 7.8],
+    ["El planeta de los simios: confrontación", "Película", "Matt Reeves", 2014, 9], 
+    ["La guerra del planeta de los simios", "Película", "Matt Reeves", 2017, 9.5], 
   ]'>
 </div>
 
