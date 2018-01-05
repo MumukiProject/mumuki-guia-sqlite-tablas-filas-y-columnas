@@ -1,3 +1,2 @@
-type: show_query
-query: select titulo from series_peliculas where puntuacion >= 9
-
+type: display
+query: select titulo from series_peliculas where puntuacion >= 9;
