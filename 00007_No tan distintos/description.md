@@ -12,7 +12,7 @@ se hicieran dos versiones de una misma película en el mismo año, o una pelícu
     ["Los simuladores (España)", "Cuatro socios que...", "Santos, Medina, León, Jota", 2, 9.8]
   ]'>
 </div>
-  
+
 Para diferenciarlos se utiliza un identificador único para cada registro, que suele ser numérico por simplicidad, y se lo llama Clave Primaria, Principal o Primary Key (PK). 
 
 > Consultá todos los campos de la tabla para ver cómo quedó con el nuevo identificador agregado. 
