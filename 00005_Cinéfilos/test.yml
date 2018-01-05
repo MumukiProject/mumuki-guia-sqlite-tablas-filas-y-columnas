@@ -1,2 +1,2 @@
 type: query
-expected: SELECT * FROM ;
+expected: SELECT * FROM series_peliculas;
