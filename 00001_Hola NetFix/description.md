@@ -4,10 +4,10 @@ Mínimamente necesitamos un título, una atrapante descripción, y algunos otros
 
 Por ejemplo...
 
-Título: Stranger Things
-Descripción: Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial. 
-Creador: The Duffer Brothers
-Personajes principales: Eleven, Mike, Will, Dustin, Lucas, Hopper, Joyce, Nancy, Jonathan, Steve.
-Cantidad de temporadas: 2
-Año de estreno: 2016
-Puntuación general: 10
+* Título: Stranger Things
+* Descripción: Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial. 
+* Creador: The Duffer Brothers
+* Personajes principales: Eleven, Mike, Will, Dustin, Lucas, Hopper, Joyce, Nancy, Jonathan, Steve.
+* Cantidad de temporadas: 2
+* Año de estreno: 2016
+* Puntuación general: 10
