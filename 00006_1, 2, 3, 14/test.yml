@@ -1,2 +1,2 @@
 type: query
-expected: SELECT COUNT (*) FROM series_peliculas;
+expected: SELECT COUNT (*) as cantidad_de_contenido FROM series_peliculas;
