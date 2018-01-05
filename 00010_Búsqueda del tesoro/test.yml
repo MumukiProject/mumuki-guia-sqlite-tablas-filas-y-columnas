@@ -1,2 +1,2 @@
 type: query
-expected: SELECT * FROM series_peliculas WHERE titulo = “Limitless”;
+expected: SELECT * FROM series_peliculas WHERE titulo = 'Limitless';
