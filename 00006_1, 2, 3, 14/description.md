@@ -6,3 +6,31 @@ Podés agregarle luego la expresión `AS` _nombreConQueQuierasMostrarElResultado
 
 > Realizá la consulta necesaria para saber cuántas series y películas hay cargadas en la plataforma actualmente.
 
+<div
+  class='mu-erd'
+  data-entities='{
+    "series_peliculas": {
+      "titulo": {
+        "type": "Text"
+      },
+      "descripcion": {
+        "type": "Text"
+      },
+      "creador": {
+        "type": "Text"
+      },
+      "personajes": {
+        "type": "Text"
+      },
+      "temporadas": {
+        "type": "Integer"
+      },
+      "estreno": {
+        "type": "Integer"
+      },
+      "puntuacion": {
+        "type": "Real"
+      }
+    }
+  }'>
+</div>
