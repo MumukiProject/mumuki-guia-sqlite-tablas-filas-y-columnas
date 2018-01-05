@@ -6,7 +6,7 @@ Armamos un filtro donde se muestran distintos contenidos de “El planeta de los
 SELECT titulo
 FROM series_peliculas
 WHERE titulo LIKE "%planeta de los simios%"
-AND (estreno > 1974 OR puntuacion >= 8) 
+AND (estreno >= 1974 OR puntuacion >= 8) 
 AND NOT formato LIKE "cómic";
 ```
 
