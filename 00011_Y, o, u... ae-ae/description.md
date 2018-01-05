@@ -3,7 +3,7 @@ Ahora que sabemos cómo agregar filtros, nos gustaría que se pueda buscar utili
 Armamos un filtro donde se muestran distintos contenidos de “El planeta de los simios”, cuyo año de estreno sea de 1974 en adelante o tenga puntuación mayor a 8 y no sea el Cómic. 
 
 ```sql
-SELECT titulo
+SELECT titulo, formato, estreno, puntuacion
 FROM series_peliculas
 WHERE titulo LIKE "%planeta de los simios%"
 AND (estreno >= 1974 OR puntuacion >= 8) 
