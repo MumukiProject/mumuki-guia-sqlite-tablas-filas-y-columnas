@@ -1,2 +1,2 @@
-type: display
-query: SELECT * FROM series_peliculas WHERE titulo = "Limitless";
+type: query
+expected: SELECT * FROM series_peliculas WHERE titulo = "Limitless";
