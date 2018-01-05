@@ -7,6 +7,10 @@ Para no abrumar a los usuarios con un montón de detalles que inicialmente no le
   class='mu-erd'
   data-entities='{
     "series_peliculas": {
+      "id_contenido": {
+        "type": "Integer",
+        "pk": true
+      },
       "titulo": {
         "type": "Text"
       },
