@@ -1,0 +1,2 @@
+type: query
+expected: SELECT titulo from series_peliculas where personajes LIKE "%Bryan Cranston%" AND (puntuacion > 8.6 OR estreno > 2003);
