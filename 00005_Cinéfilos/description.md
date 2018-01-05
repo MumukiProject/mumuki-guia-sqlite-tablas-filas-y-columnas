@@ -1,3 +1,3 @@
 Como nos gustan mucho las series, películas y sus personajes...
 
-> Consultá todos los campos de la tabla series_peliculas.
+> Consultá todos los campos de la tabla .

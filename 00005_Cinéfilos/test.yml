@@ -1,2 +1,2 @@
-type: show_query
-expected: select * from series_peliculas
+type: query
+expected: SELECT * FROM ;
