@@ -1,2 +1,2 @@
 type: display
-query: select titulo as Lolo from series_peliculas where puntuacion >= 9;
+query: select titulo as Recomendados from series_peliculas where puntuacion >= 9;
