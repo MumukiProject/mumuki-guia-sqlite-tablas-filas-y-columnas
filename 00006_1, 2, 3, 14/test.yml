@@ -1,2 +1,2 @@
-type: show_query
-expected: select count (*) from series_peliculas;
+type: query
+expected: SELECT COUNT (*) FROM series_peliculas;
