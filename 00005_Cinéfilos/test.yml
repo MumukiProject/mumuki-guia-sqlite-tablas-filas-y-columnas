@@ -1,2 +1,2 @@
 type: show_query
-query: select * from series_peliculas
+expected: select * from series_peliculas
