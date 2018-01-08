@@ -6,9 +6,9 @@ se hicieran dos versiones de una misma película en el mismo año, o una pelícu
   data-columns='["titulo", "descripcion", "creador", "personajes", "temporadas", "puntuacion"]'
   data-rows='[
     ["Los simuladores (Argentina)", "Cuatro socios que se dedican al negocio de la simulación, resuelven los problemas y necesidades de sus clientes mediante lo que ellos denominan operativos de simulacro.", "Damián Szifron", "Mario Santos, Pablo Lamponne, Emilio Ravenna, Gabriel Medina", 2, 10],
-    ["Los simuladores (México)", "Cuatro socios que se dedican al negocio de la simulación, resuelven los problemas y necesidades de sus clientes mediante lo que ellos denominan operativos de simulacro.", "Damián Szifron", "Mario Santos, Pablo López, Emilio Vargas, Gabriel Medina", 2, 9.7],
-    ["Los simuladores (Chile)", "Cuatro socios que se dedican al negocio de la simulación, resuelven los problemas y necesidades de sus clientes mediante lo que ellos denominan operativos de simulacro.", "Damián Szifron", "Ernesto Santos, Gabriel Medina, Emilio Ravenna, Pablo Lorca", 2, 9.3],
-    ["Los simuladores (España)", "Cuatro socios que se dedican al negocio de la simulación, resuelven los problemas y necesidades de sus clientes mediante lo que ellos denominan operativos de simulacro.", "Damián Szifron", "Santos, Medina, León, Jota", 2, 9.8]
+    ["Los simuladores (México)", "Cuatro socios que...", "Damián Szifron", "Mario Santos, Pablo López, Emilio Vargas, Gabriel Medina", 2, 9.7],
+    ["Los simuladores (Chile)", "Cuatro socios que...", "", "Ernesto Santos, Gabriel Medina, Emilio Ravenna, Pablo Lorca", 2, 9.3],
+    ["Los simuladores (España)", "Cuatro socios que...", "", "Santos, Medina, León, Jota", 2, 9.8]
   ]'>
 </div>
 
