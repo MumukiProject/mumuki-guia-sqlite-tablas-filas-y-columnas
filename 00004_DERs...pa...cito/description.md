@@ -6,8 +6,7 @@ Además, sería medio tonto poner como año de estreno: "mil novecientos noventa
 
 Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los campos y tipos de datos de cada tabla.
 
-<div
-  class='mu-erd'
+<div class='mu-erd'
   data-entities='{
     "series_peliculas": {
       "titulo": {
@@ -19,7 +18,7 @@ Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los 
       "creador": {
         "type": "Text"
       },
-      "personajes": 
+      "personajes": {
         "type": "Text"
       },
       "temporadas": {
