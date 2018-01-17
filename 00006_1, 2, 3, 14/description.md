@@ -28,7 +28,7 @@ Podés agregarle luego la expresión `AS` *nombre_con_que_quieras_mostrar_el_res
       "estreno": {
         "type": "Integer"
       },
-      "puntuacion": {
+      "puntaje": {
         "type": "Real"
       }
     }
