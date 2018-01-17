@@ -1,2 +1,2 @@
 type: query
-expected: SELECT * from series_peliculas where personajes LIKE "%Bryan Cranston%" AND (puntuacion > 8.6 OR estreno > 2003);
+expected: SELECT * from series_peliculas where personajes LIKE "%Bryan Cranston%" AND (puntaje > 8.6 OR estreno > 2003);
