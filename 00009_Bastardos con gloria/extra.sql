@@ -1,3 +1,3 @@
-CREATE TABLE series_peliculas (titulo TEXT, creador TEXT, personajes TEXT, temporadas INTEGER, estreno INTEGER, puntuacion REAL);
+CREATE TABLE series_peliculas (titulo TEXT, creador TEXT, personajes TEXT, temporadas INTEGER, estreno INTEGER, puntaje REAL);
 
 INSERT INTO series_peliculas VALUES("Stranger Things", "The Duffer Brothers", "Eleven, Mike, Will, Dustin, Lucas, Hopper, Joyce, Nancy, Jonathan, Steve", 2, 2016, 10), ("Breaking Bad", "Vince Gilligan", "Walter White, Jesse Pinkman, Gus Fring, Saul Goodman, Mike Ehrmantraut, Hank Schrader, Tuco Salamanca, Skyler White", 5, 2008, 9.7), ("IT", "Stephen King", "El payaso Pennywise, Beverly Marsh, Richie Tozier, Bill Denbrough, Eddie Kaspbrak, Stanley Uris, Ben Hanscom, Mike Hanlon, Georgie Denbrough", NULL, 2017, 8.9);
