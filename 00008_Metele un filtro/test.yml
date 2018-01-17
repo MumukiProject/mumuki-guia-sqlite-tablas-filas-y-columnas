@@ -1,2 +1,2 @@
 type: query
-expected: SELECT titulo, puntuacion FROM series_peliculas;
+expected: SELECT titulo, puntaje FROM series_peliculas;

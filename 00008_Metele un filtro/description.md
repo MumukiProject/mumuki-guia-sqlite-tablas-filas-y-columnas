@@ -1,7 +1,7 @@
 Vamos a crear la página de inicio de nuestra plataforma. 
 
-Para no abrumar a los usuarios con un montón de detalles que inicialmente no les interesa, solo queremos mostrar el nombre de las series o películas, y la puntuación general. 
-> Escribí la consulta que devuelva solo el título y la puntuación.  
+Para no abrumar a los usuarios con un montón de detalles que inicialmente no les interesa, solo queremos mostrar el nombre de las series o películas, y el puntaje. 
+> Escribí la consulta que devuelva solo el título y el puntaje.  
 
 <div
   class='mu-erd'
@@ -29,7 +29,7 @@ Para no abrumar a los usuarios con un montón de detalles que inicialmente no le
       "estreno": {
         "type": "Integer"
       },
-      "puntuacion": {
+      "puntaje": {
         "type": "Real"
       }
     }
