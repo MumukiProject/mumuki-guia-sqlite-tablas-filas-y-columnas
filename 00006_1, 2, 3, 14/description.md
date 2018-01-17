@@ -2,7 +2,7 @@
 
 Para eso, existe la función `COUNT` que, como te imaginarás, cuenta y devuelve el resultado total. Como toda función, recibe algún parámetro entre paréntesis.
 
-Podés agregarle luego la expresión `AS` _nombreConQueQuierasMostrarElResultado_.
+Podés agregarle luego la expresión `AS _nombreConQueQuierasMostrarElResultado_`.
 
 > Realizá la consulta necesaria para saber cuántas series y películas hay cargadas en la plataforma actualmente. Mostrá el resultado como _cantidad_de_contenido_.
 
