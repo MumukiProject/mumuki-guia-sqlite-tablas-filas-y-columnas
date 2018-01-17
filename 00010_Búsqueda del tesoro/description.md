@@ -5,7 +5,7 @@ Además de los filtros, nos gustaría poner un buscador para que los usuarios pu
 <div
   class='mu-sql-table'
   data-name='series_peliculas'
-  data-columns='["titulo", "creador", "personajes", "temporadas", "estreno", "puntuacion"]'
+  data-columns='["titulo", "creador", "personajes", "temporadas", "estreno", "puntaje"]'
   data-rows='[
     ["Stranger Things", "The Duffer Brothers", "Eleven, Mike, Will, Dustin, Lucas, Hopper, Joyce, Nancy, Jonathan, Steve", 2, 2016, 10], 
     ["Breaking Bad", "Vince Gilligan", "Walter White, Jesse Pinkman, Gus Fring, Saul Goodman, Mike Ehrmantraut, Hank Schrader, Tuco Salamanca, Skyler White", 5, 2008, 9.7], 
