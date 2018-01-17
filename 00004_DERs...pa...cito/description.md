@@ -27,7 +27,7 @@ Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los 
       "estreno": {
         "type": "Integer"
       },
-      "puntuacion": {
+      "puntaje": {
         "type": "Real"
       }
     }
