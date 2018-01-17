@@ -2,4 +2,4 @@
 
 Pero... ¿de dónde salen esos datos? ¿Quién los agrega, los saca o los modifica? 
 
-¡Eso lo vas a poder hacer vos, en la próxima guía! :smiley:
+¡Eso lo vas a poder hacer vos, en la próxima lección! :smiley:
