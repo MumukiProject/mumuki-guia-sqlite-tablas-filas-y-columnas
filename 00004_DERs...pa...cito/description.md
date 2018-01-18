@@ -33,3 +33,7 @@ Se usa un DER (Diagrama Entidad Relación) como el siguiente para describir los 
     }
   }'>
 </div>
+
+El nombre de este diagrama se refiere a que representa entidades y sus relaciones :stuck_out_tongue_winking_eye:. Pero tranquilos que más adelante vamos a ver qué es esto.
+
+Solo para que entiendas... estas _entidades_ son abstracciones de cualquier cosa que nos pueda interesar y que tenga atributos/datos para guardar. Pero para facilitarte la idea, de ahora en más vamos a hablar simplemente de _tablas_. 
