@@ -8,7 +8,7 @@ FROM series_peliculas
 WHERE puntaje >= 9;
 ```
 
-> Presioná continuar para ver el resultado.
+> Presioná Continuar para ver el resultado.
 
 <div
   class='mu-sql-table'
