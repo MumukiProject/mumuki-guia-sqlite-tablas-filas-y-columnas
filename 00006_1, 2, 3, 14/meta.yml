@@ -5,6 +5,7 @@ layout: input_bottom
 editor: code
 type: problem
 extra_visible: false
+teacher_info: ''
 manual_evaluation: false
 choices: []
 name: 1, 2, 3, 14
