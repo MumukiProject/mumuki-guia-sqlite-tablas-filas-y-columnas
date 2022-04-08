@@ -1,6 +1,6 @@
 Pensemos en todos los datos que tendría que tener una serie o película que pongamos en NetFix , y que deberíamos guardar en la base de datos. 
 
-Mínimamente necesitamos un título, una atrapante descripción, y algunos otros detalles como quién creó, dirigió, sus protagonistas o personajes principales, cantidad de temporadas (en el caso de las series), año de estreno y puntaje. 
+Mínimamente necesitamos un título, una atrapante descripción, y algunos otros detalles como quién creó, dirigió, quienes son sus protagonistas o personajes principales, cantidad de temporadas (en el caso de las series), año de estreno y puntaje. 
 
 Por ejemplo...
 
