@@ -1,6 +1,7 @@
-Vamos a crear la página de inicio de nuestra plataforma. 
+Vamos a crear la página de inicio de nuestra plataforma.
 
-Para no abrumar a los usuarios con un montón de detalles que inicialmente no les interesa, solo queremos mostrar el nombre de las series o películas, y el puntaje. 
+Para no abrumar a quienes la usen con un montón de detalles que inicialmente no les interesan, solo queremos mostrar el nombre de las series o películas, y el puntaje.
+
 > Escribí la consulta que devuelva solo el título y el puntaje.  
 
 <div
